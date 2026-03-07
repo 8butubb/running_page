@@ -17,7 +17,7 @@ const getBasePath = () => {
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
   siteUrl: 'https://run.butubb.cn',
-  logo: 'https://i1.hdslb.com/bfs/new_dyn/1b20cc7cee845a1594c441211e8e7eaa1353640159.jpg@1052w_!web-dynamic.avif',
+  logo: 'https://cdn.jsdelivr.net/gh/8butubb/image/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2026-03-07_095359_687.jpg',
   description: 'Personal site and blog',
   navLinks: [
     {
